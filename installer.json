@@ -1,0 +1,598 @@
+{
+  "App": {
+    "name": "pwl",
+    "version": "1.4.0"
+  },
+  "documents": {
+    "Builder:Page Builder": {
+      "__app__": "loopar"
+    },
+    "Entity:Module": {
+      "__app__": "loopar"
+    },
+    "Entity:App": {
+      "__app__": "loopar"
+    },
+    "App:pwl": {
+      "name": "pwl",
+      "description": "Primstone Workforce Logistics — website",
+      "version": "1.4.0",
+      "autor": "alfredrz2012@gmail.com",
+      "icon": "Globe",
+      "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":11544,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
+      "logo_dark": "[{\"name\":\"pwl-logo-dark.svg\",\"size\":11544,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo-dark.svg\"}]",
+      "logo_mini": "[{\"name\":\"pwl-mark.svg\",\"size\":495,\"type\":\"image\",\"src\":\"/assets/public/pwl-mark.svg\"}]",
+      "logo_mini_dark": "[{\"name\":\"pwl-mark-dark.svg\",\"size\":495,\"type\":\"image\",\"src\":\"/assets/public/pwl-mark-dark.svg\"}]",
+      "favicon": "[{\"name\":\"pwl-favicon.ico\",\"size\":8950,\"type\":\"image\",\"src\":\"/assets/public/pwl-favicon.ico\"}]",
+      "info": "",
+      "has_website": 1,
+      "logo_width": 50,
+      "logo_height": "70",
+      "gap": "",
+      "col_padding": "",
+      "has_footer": 1,
+      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1; min-width: 260px;\">\r\n    ### Primstone Workforce Logistics\r\n\r\n    Temporary staffing, workforce management and managed operational solutions for rental-car, airport, logistics and commercial clients in metro Atlanta.\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 200px;\">\r\n    ### Services\r\n\r\n    * [Fleet & Lot Operations](/services)\r\n    * [Cleaning, Inspection & Prep](/services)\r\n    * [Customer Service & Call Center](/services)\r\n    * [Dispatch & Logistics](/services)\r\n    * [Workforce Management](/services)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 200px;\">\r\n    ### Contact\r\n\r\n    **Phone:** (404) 555-0142\r\n\r\n    **Email:** [hello@staffing.example](mailto\\:hello@staffing.example)\r\n\r\n    **Office:** 100 Hartsfield Centre Parkway, Suite 500, Atlanta, GA 30354\r\n\r\n    **Area:** Metro Atlanta, GA\r\n\r\n    [Apply for a job →](/careers)\r\n  </div>\r\n</div>",
+      "has_copyright": 1,
+      "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\r\n  © 2026 **Primstone Workforce Logistics LLC**. All rights reserved.\r\n\r\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\r\n</div>",
+      "fixed": 1,
+      "logo_position": "center",
+      "rounded": "sm",
+      "show_user_section": 0,
+      "solid": 1,
+      "opacity": "",
+      "menu_items": [
+        {
+          "parent_document": "App",
+          "name": "UyENZOL7VBSC4hG",
+          "page": "Pwl Home",
+          "link": "Home",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "apA7v0V1Of2PeiL",
+          "page": "Pwl Services",
+          "link": "Services",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "Pm70Oy1aVE75FfL",
+          "page": "Pwl Industries",
+          "link": "Industries",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "AUDW5uy7687g2k5",
+          "page": "Pwl Careers",
+          "link": "Careers",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "HJx3khNF27Rr7W1",
+          "page": "Pwl About",
+          "link": "About",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "dsCw9g148WrtGl1",
+          "page": "Pwl Portal",
+          "link": "Live Demo",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "ZZ1am1oQn7fpg87",
+          "page": "Pwl Contact",
+          "link": "Contact",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "u8jzPde0IgxLd6G",
+          "page": "Document Signing",
+          "link": "sign",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 1
+        },
+        {
+          "parent_document": "App",
+          "name": "C3J27XDCG2LmlZG",
+          "page": "Staffing Clock",
+          "link": "clock",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 1
+        },
+        {
+          "parent_document": "App",
+          "name": "qsR6RZ24lPoQj3o",
+          "page": "Staffing Station Kiosk",
+          "link": "station",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 1
+        }
+      ],
+      "menu_actions": [
+        {
+          "parent_document": "App",
+          "name": "LYO0gkE5IGP6sA1",
+          "icon": "Phone",
+          "action": "/contact"
+        }
+      ],
+      "theme": "{\"theme\":\"green\",\"darkMode\":\"auto\",\"darkIntensity\":0.15,\"darkCustomColor\":\"#0a0a0a\",\"includeTitles\":true}"
+    },
+    "Module:pwl": {
+      "name": "pwl",
+      "description": "Primstone Workforce Logistics website",
+      "app_name": "pwl",
+      "icon": "Globe",
+      "in_sidebar": 1
+    },
+    "Page Builder:Pwl About": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-about"
+    },
+    "Page Builder:Pwl Careers": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-careers"
+    },
+    "Page Builder:Pwl Contact": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-contact"
+    },
+    "Page Builder:Pwl Home": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-home"
+    },
+    "Page Builder:Pwl Industries": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-industries"
+    },
+    "Page Builder:Pwl Portal": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-portal"
+    },
+    "Page Builder:Pwl Services": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-services"
+    },
+    "Entity:Menu Item": {
+      "__app__": "loopar"
+    },
+    "Entity:Menu Action": {
+      "__app__": "loopar"
+    },
+    "Page Builder:Document Signing": {
+      "__app__": "loopar"
+    },
+    "Page Builder:Staffing Clock": {
+      "__app__": "staffing"
+    },
+    "Page Builder:Staffing Station Kiosk": {
+      "__app__": "staffing"
+    },
+    "Entity:Role": {
+      "__app__": "loopar"
+    },
+    "Role:Pwl Manager": {
+      "name": "Pwl Manager",
+      "app": "pwl",
+      "is_system_role": 1,
+      "disabled": 0,
+      "description": "Full access to every document of the Pwl app, nothing else of the system."
+    },
+    "Role:Pwl User": {
+      "name": "Pwl User",
+      "app": "pwl",
+      "is_system_role": 1,
+      "disabled": 0,
+      "description": "Reads everything in the Pwl app; creates and edits only its own records."
+    },
+    "Entity:Service Category": {
+      "__app__": "loopar"
+    },
+    "Entity:Service": {
+      "__app__": "loopar"
+    },
+    "Entity:Staffing Position": {
+      "__app__": "staffing"
+    },
+    "Service Category:Fleet Operations": {
+      "name": "Fleet Operations",
+      "title": "Fleet Operations",
+      "slug": "fleet-operations",
+      "app": "pwl",
+      "icon": "Bus",
+      "description": ""
+    },
+    "Service Category:Vehicle Care": {
+      "name": "Vehicle Care",
+      "title": "Vehicle Care",
+      "slug": "vehicle-care",
+      "app": "pwl",
+      "icon": "Sparkles",
+      "description": ""
+    },
+    "Service Category:Facility Services": {
+      "name": "Facility Services",
+      "title": "Facility Services",
+      "slug": "facility-services",
+      "app": "pwl",
+      "icon": "SprayCan",
+      "description": ""
+    },
+    "Service Category:Site Management": {
+      "name": "Site Management",
+      "title": "Site Management",
+      "slug": "site-management",
+      "app": "pwl",
+      "icon": "ClipboardCheck",
+      "description": ""
+    },
+    "Service Category:Business Support": {
+      "name": "Business Support",
+      "title": "Business Support",
+      "slug": "business-support",
+      "app": "pwl",
+      "icon": "Headset",
+      "description": ""
+    },
+    "Service:staffing-shuttle-drivers": {
+      "name": "staffing-shuttle-drivers",
+      "title": "Shuttle Drivers",
+      "slug": "shuttle-drivers",
+      "category": "Fleet Operations",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 1,
+      "tagline": "Safe, on-time loops",
+      "summary": "Licensed, background-checked drivers for shuttles, vehicle relocation and transfers between lots and branches.",
+      "description": "### What's included\n\n- CDL and non-CDL drivers, matched to your vehicles\n- Vehicle shuttling, relocation and branch-to-branch transfers\n- Pre-shift vehicle inspections and safety checklists\n- Route and schedule discipline for on-time loops\n- Customer-friendly drivers trained for airport traffic",
+      "icon": "Bus",
+      "cover_image": "[{\"name\": \"bus2.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=shuttle-drivers",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:staffing-lot-porters-vehicle-movers": {
+      "name": "staffing-lot-porters-vehicle-movers",
+      "title": "Lot Porters & Vehicle Movers",
+      "slug": "lot-porters-vehicle-movers",
+      "category": "Fleet Operations",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 2,
+      "tagline": "Cars where you need them",
+      "summary": "Porters who move, stage and return vehicles so your lot runs on time, every turn.",
+      "description": "### What's included\n\n- Staging, shuttling and returns between lots\n- Key control and damage walk-arounds\n- Fuel and EV charging runs\n- Peak-hour surge crews for holidays and events",
+      "icon": "Car",
+      "cover_image": "[{\"name\": \"sedan.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1773063250524-38ac5eebd3c5?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=lot-porters-vehicle-movers",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:staffing-car-wash-detailing": {
+      "name": "staffing-car-wash-detailing",
+      "title": "Car Wash & Detailing",
+      "slug": "car-wash-detailing",
+      "category": "Vehicle Care",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 3,
+      "tagline": "Fast turns, clean cars",
+      "summary": "Wash and detail crews that turn vehicles fast without cutting corners.",
+      "description": "### What's included\n\n- Exterior wash and interior cleaning to your checklist\n- Ready-line inspection before release\n- Productivity tracked per shift\n- Supplies and process training on day one",
+      "icon": "Sparkles",
+      "cover_image": "[{\"name\": \"wash.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1633014041037-f5446fb4ce99?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=car-wash-detailing",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:staffing-fleet-prep-support": {
+      "name": "staffing-fleet-prep-support",
+      "title": "Fleet Prep & Inspection",
+      "slug": "fleet-prep-support",
+      "category": "Fleet Operations",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 4,
+      "tagline": "Ready-line support",
+      "summary": "Inspection and preparation: fluids, tire checks, damage reports and the tasks that get cars ready to rent.",
+      "description": "### What's included\n\n- Fluids, tire pressure and basic checks\n- Damage reporting with photos\n- Inventory counts and lot audits\n- Support for maintenance and body shop flow",
+      "icon": "Wrench",
+      "cover_image": "[{\"name\": \"droplets.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1611239179213-d972da54091a?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=fleet-prep-support",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:staffing-cleaning-crews": {
+      "name": "staffing-cleaning-crews",
+      "title": "Cleaning Crews",
+      "slug": "cleaning-crews",
+      "category": "Facility Services",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 5,
+      "tagline": "Spotless counters and lots",
+      "summary": "Facility and terminal cleaning crews for counters, offices, break rooms and lots.",
+      "description": "### What's included\n\n- Day, night and weekend schedules\n- Restroom, counter and office cleaning\n- Lot and curb litter control\n- Supervisor walk-throughs every shift",
+      "icon": "SprayCan",
+      "cover_image": "[{\"name\": \"janitor.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1741543821138-471a53f147f2?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=cleaning-crews",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:staffing-on-site-supervision": {
+      "name": "staffing-on-site-supervision",
+      "title": "On-Site Supervision",
+      "slug": "on-site-supervision",
+      "category": "Site Management",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 6,
+      "tagline": "One point of contact",
+      "summary": "A dedicated supervisor on site so your managers don't have to manage our people.",
+      "description": "### What's included\n\n- One point of contact per site\n- Attendance, breaks and safety enforced\n- Daily shift reports to your team\n- Fast replacements when someone can't make it",
+      "icon": "ClipboardCheck",
+      "cover_image": "[{\"name\": \"vest.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1622612023350-b15f063eabe6?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=on-site-supervision",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Staffing Position:Shuttle Driver": {
+      "name": "Shuttle Driver",
+      "service": "staffing-shuttle-drivers",
+      "category": "Driving",
+      "license_required": "Driver License",
+      "active": 1
+    },
+    "Staffing Position:Lot Porter": {
+      "name": "Lot Porter",
+      "service": "staffing-lot-porters-vehicle-movers",
+      "category": "Lot Operations",
+      "license_required": "Driver License",
+      "active": 1
+    },
+    "Staffing Position:Car Wash Detailer": {
+      "name": "Car Wash Detailer",
+      "service": "staffing-car-wash-detailing",
+      "category": "Detailing",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Fleet Prep Technician": {
+      "name": "Fleet Prep Technician",
+      "service": "staffing-fleet-prep-support",
+      "category": "Lot Operations",
+      "license_required": "Driver License",
+      "active": 1
+    },
+    "Staffing Position:Cleaning Crew Member": {
+      "name": "Cleaning Crew Member",
+      "service": "staffing-cleaning-crews",
+      "category": "Cleaning",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Site Supervisor": {
+      "name": "Site Supervisor",
+      "service": "staffing-on-site-supervision",
+      "category": "Supervision",
+      "license_required": "None",
+      "active": 1
+    },
+    "Service:pwl-customer-service-call-center": {
+      "name": "pwl-customer-service-call-center",
+      "title": "Customer Service & Call Center",
+      "slug": "customer-service-call-center",
+      "category": "Business Support",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 7,
+      "tagline": "Friendly voices, every channel",
+      "summary": "Counter agents and call center support for reservations, returns and customer questions.",
+      "description": "### What's included\n\n- Rental counter and customer service agents\n- Inbound and outbound call center support\n- Reservation, return and billing questions\n- Scripts, quality monitoring and daily reporting",
+      "icon": "Headset",
+      "cover_image": "[{\"name\": \"customer-service-call-center.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=customer-service-call-center",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:pwl-dispatch-logistics-coordination": {
+      "name": "pwl-dispatch-logistics-coordination",
+      "title": "Dispatch & Logistics Coordination",
+      "slug": "dispatch-logistics-coordination",
+      "category": "Fleet Operations",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 8,
+      "tagline": "Vehicles and drivers in sync",
+      "summary": "Dispatchers and coordinators who keep vehicles, drivers and deliveries flowing.",
+      "description": "### What's included\n\n- Driver and vehicle dispatch\n- Vehicle staging and movement planning\n- Logistics coordination between sites\n- Shift logs and operational reporting",
+      "icon": "Route",
+      "cover_image": "[{\"name\": \"dispatch-logistics-coordination.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=dispatch-logistics-coordination",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:pwl-administrative-support": {
+      "name": "pwl-administrative-support",
+      "title": "Administrative Support",
+      "slug": "administrative-support",
+      "category": "Business Support",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 9,
+      "tagline": "Back office, covered",
+      "summary": "Administrative staff for data entry, document control, scheduling and office support.",
+      "description": "### What's included\n\n- Data entry and document control\n- Scheduling and front-desk support\n- Contract, invoice and records support\n- Trained on your systems and processes",
+      "icon": "FileText",
+      "cover_image": "[{\"name\": \"administrative-support.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1560264280-88b68371db39?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=administrative-support",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:pwl-workforce-management-recruitment": {
+      "name": "pwl-workforce-management-recruitment",
+      "title": "Workforce Management & Recruitment",
+      "slug": "workforce-management-recruitment",
+      "category": "Site Management",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 10,
+      "tagline": "The right people, managed",
+      "summary": "Recruitment support, workforce deployment and scheduling for programs of any size.",
+      "description": "### What's included\n\n- Recruiting, screening and onboarding support\n- Workforce deployment and scheduling\n- Backup bench per site for no-shows\n- Managed programs customized to your operation",
+      "icon": "Users",
+      "cover_image": "[{\"name\": \"workforce-management-recruitment.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1573165759995-5865a394a1aa?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=workforce-management-recruitment",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Service:pwl-quality-control-reporting": {
+      "name": "pwl-quality-control-reporting",
+      "title": "Quality Control & Operational Reporting",
+      "slug": "quality-control-reporting",
+      "category": "Site Management",
+      "app": "pwl",
+      "published": 1,
+      "featured": 1,
+      "order": 11,
+      "tagline": "Measured, improved",
+      "summary": "Quality control, operational reporting and process improvement for your sites.",
+      "description": "### What's included\n\n- Quality inspections against your standards\n- Shift, productivity and attendance reports\n- Process improvement recommendations\n- Regular reviews with your managers",
+      "icon": "ChartColumn",
+      "cover_image": "[{\"name\": \"quality-control-reporting.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?auto=format&fit=crop&w=1200&q=80\"}]",
+      "pricing_model": "hidden",
+      "cta_label": "Request Staffing",
+      "cta_url": "/contact?service=quality-control-reporting",
+      "cta_secondary_label": "See open jobs",
+      "cta_secondary_url": "/careers"
+    },
+    "Staffing Position:Customer Service Agent": {
+      "name": "Customer Service Agent",
+      "service": "pwl-customer-service-call-center",
+      "category": "Customer Service",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Call Center Agent": {
+      "name": "Call Center Agent",
+      "service": "pwl-customer-service-call-center",
+      "category": "Customer Service",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Dispatcher": {
+      "name": "Dispatcher",
+      "service": "pwl-dispatch-logistics-coordination",
+      "category": "Dispatch & Logistics",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Logistics Coordinator": {
+      "name": "Logistics Coordinator",
+      "service": "pwl-dispatch-logistics-coordination",
+      "category": "Dispatch & Logistics",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Administrative Assistant": {
+      "name": "Administrative Assistant",
+      "service": "pwl-administrative-support",
+      "category": "Administrative",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Workforce Coordinator": {
+      "name": "Workforce Coordinator",
+      "service": "pwl-workforce-management-recruitment",
+      "category": "Supervision",
+      "license_required": "None",
+      "active": 1
+    },
+    "Staffing Position:Quality Control Inspector": {
+      "name": "Quality Control Inspector",
+      "service": "pwl-quality-control-reporting",
+      "category": "Quality Control",
+      "license_required": "None",
+      "active": 1
+    }
+  },
+  "postInstaller": {
+    "App:pwl": "link",
+    "Service Category:Fleet Operations": "link",
+    "Service Category:Vehicle Care": "link",
+    "Service Category:Facility Services": "link",
+    "Service Category:Site Management": "link",
+    "Service:staffing-shuttle-drivers": "link",
+    "Service:staffing-lot-porters-vehicle-movers": "link",
+    "Service:staffing-car-wash-detailing": "link",
+    "Service:staffing-fleet-prep-support": "link",
+    "Service:staffing-cleaning-crews": "link",
+    "Service:staffing-on-site-supervision": "link",
+    "Staffing Position:Shuttle Driver": "link",
+    "Staffing Position:Lot Porter": "link",
+    "Staffing Position:Car Wash Detailer": "link",
+    "Staffing Position:Fleet Prep Technician": "link",
+    "Staffing Position:Cleaning Crew Member": "link",
+    "Staffing Position:Site Supervisor": "link",
+    "Service Category:Business Support": "link",
+    "Service:pwl-customer-service-call-center": "link",
+    "Service:pwl-dispatch-logistics-coordination": "link",
+    "Service:pwl-administrative-support": "link",
+    "Service:pwl-workforce-management-recruitment": "link",
+    "Service:pwl-quality-control-reporting": "link",
+    "Staffing Position:Customer Service Agent": "link",
+    "Staffing Position:Call Center Agent": "link",
+    "Staffing Position:Dispatcher": "link",
+    "Staffing Position:Logistics Coordinator": "link",
+    "Staffing Position:Administrative Assistant": "link",
+    "Staffing Position:Workforce Coordinator": "link",
+    "Staffing Position:Quality Control Inspector": "link"
+  }
+}
