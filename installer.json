@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":11544,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -43,99 +43,99 @@
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "UyENZOL7VBSC4hG",
+          "name": "gKity3WvF3dr961",
           "page": "Pwl Home",
           "link": "Home",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "apA7v0V1Of2PeiL",
+          "name": "Y4JwBkfbIHtx0mK",
           "page": "Pwl Services",
           "link": "Services",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "Pm70Oy1aVE75FfL",
+          "name": "ehKY93MxsUTiyAe",
           "page": "Pwl Industries",
           "link": "Industries",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "AUDW5uy7687g2k5",
+          "name": "SglZ1e792qCXjid",
           "page": "Pwl Careers",
           "link": "Careers",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "HJx3khNF27Rr7W1",
+          "name": "FAe4iLsqG4t3oln",
           "page": "Pwl About",
           "link": "About",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "dsCw9g148WrtGl1",
+          "name": "oko6rGfgIXs2V3K",
           "page": "Pwl Portal",
           "link": "Live Demo",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "ZZ1am1oQn7fpg87",
+          "name": "repC59c2tN44jV0",
           "page": "Pwl Contact",
           "link": "Contact",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "u8jzPde0IgxLd6G",
+          "name": "x9DfoWGt9b342Oi",
           "page": "Document Signing",
           "link": "sign",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 1
+          "router_only": 1,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "C3J27XDCG2LmlZG",
+          "name": "jWLV9CBgYc0J0nl",
           "page": "Staffing Clock",
           "link": "clock",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 1
+          "router_only": 1,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "qsR6RZ24lPoQj3o",
+          "name": "YGJTbaD0xIriMph",
           "page": "Staffing Station Kiosk",
           "link": "station",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 1
+          "router_only": 1,
+          "document_parent_name": null
         }
       ],
       "menu_actions": [
         {
           "parent_document": "App",
-          "name": "LYO0gkE5IGP6sA1",
+          "name": "Ns4LlItj9O5g0bJ",
           "icon": "Phone",
           "action": "/contact"
         }
@@ -151,6 +151,12 @@
     },
     "Page Builder:Pwl About": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-about"
+    },
+    "Entity:Menu Item": {
+      "__app__": "loopar"
+    },
+    "Entity:Menu Action": {
+      "__app__": "loopar"
     },
     "Page Builder:Pwl Careers": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-careers"
@@ -169,12 +175,6 @@
     },
     "Page Builder:Pwl Services": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-services"
-    },
-    "Entity:Menu Item": {
-      "__app__": "loopar"
-    },
-    "Entity:Menu Action": {
-      "__app__": "loopar"
     },
     "Page Builder:Document Signing": {
       "__app__": "loopar"
@@ -202,14 +202,11 @@
       "disabled": 0,
       "description": "Reads everything in the Pwl app; creates and edits only its own records."
     },
-    "Entity:Service Category": {
-      "__app__": "loopar"
-    },
     "Entity:Service": {
       "__app__": "loopar"
     },
-    "Entity:Staffing Position": {
-      "__app__": "staffing"
+    "Entity:Service Category": {
+      "__app__": "loopar"
     },
     "Service Category:Fleet Operations": {
       "name": "Fleet Operations",
@@ -217,38 +214,6 @@
       "slug": "fleet-operations",
       "app": "pwl",
       "icon": "Bus",
-      "description": ""
-    },
-    "Service Category:Vehicle Care": {
-      "name": "Vehicle Care",
-      "title": "Vehicle Care",
-      "slug": "vehicle-care",
-      "app": "pwl",
-      "icon": "Sparkles",
-      "description": ""
-    },
-    "Service Category:Facility Services": {
-      "name": "Facility Services",
-      "title": "Facility Services",
-      "slug": "facility-services",
-      "app": "pwl",
-      "icon": "SprayCan",
-      "description": ""
-    },
-    "Service Category:Site Management": {
-      "name": "Site Management",
-      "title": "Site Management",
-      "slug": "site-management",
-      "app": "pwl",
-      "icon": "ClipboardCheck",
-      "description": ""
-    },
-    "Service Category:Business Support": {
-      "name": "Business Support",
-      "title": "Business Support",
-      "slug": "business-support",
-      "app": "pwl",
-      "icon": "Headset",
       "description": ""
     },
     "Service:staffing-shuttle-drivers": {
@@ -291,6 +256,14 @@
       "cta_secondary_label": "See open jobs",
       "cta_secondary_url": "/careers"
     },
+    "Service Category:Vehicle Care": {
+      "name": "Vehicle Care",
+      "title": "Vehicle Care",
+      "slug": "vehicle-care",
+      "app": "pwl",
+      "icon": "Sparkles",
+      "description": ""
+    },
     "Service:staffing-car-wash-detailing": {
       "name": "staffing-car-wash-detailing",
       "title": "Car Wash & Detailing",
@@ -331,6 +304,14 @@
       "cta_secondary_label": "See open jobs",
       "cta_secondary_url": "/careers"
     },
+    "Service Category:Facility Services": {
+      "name": "Facility Services",
+      "title": "Facility Services",
+      "slug": "facility-services",
+      "app": "pwl",
+      "icon": "SprayCan",
+      "description": ""
+    },
     "Service:staffing-cleaning-crews": {
       "name": "staffing-cleaning-crews",
       "title": "Cleaning Crews",
@@ -350,6 +331,14 @@
       "cta_url": "/contact?service=cleaning-crews",
       "cta_secondary_label": "See open jobs",
       "cta_secondary_url": "/careers"
+    },
+    "Service Category:Site Management": {
+      "name": "Site Management",
+      "title": "Site Management",
+      "slug": "site-management",
+      "app": "pwl",
+      "icon": "ClipboardCheck",
+      "description": ""
     },
     "Service:staffing-on-site-supervision": {
       "name": "staffing-on-site-supervision",
@@ -371,47 +360,13 @@
       "cta_secondary_label": "See open jobs",
       "cta_secondary_url": "/careers"
     },
-    "Staffing Position:Shuttle Driver": {
-      "name": "Shuttle Driver",
-      "service": "staffing-shuttle-drivers",
-      "category": "Driving",
-      "license_required": "Driver License",
-      "active": 1
-    },
-    "Staffing Position:Lot Porter": {
-      "name": "Lot Porter",
-      "service": "staffing-lot-porters-vehicle-movers",
-      "category": "Lot Operations",
-      "license_required": "Driver License",
-      "active": 1
-    },
-    "Staffing Position:Car Wash Detailer": {
-      "name": "Car Wash Detailer",
-      "service": "staffing-car-wash-detailing",
-      "category": "Detailing",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Fleet Prep Technician": {
-      "name": "Fleet Prep Technician",
-      "service": "staffing-fleet-prep-support",
-      "category": "Lot Operations",
-      "license_required": "Driver License",
-      "active": 1
-    },
-    "Staffing Position:Cleaning Crew Member": {
-      "name": "Cleaning Crew Member",
-      "service": "staffing-cleaning-crews",
-      "category": "Cleaning",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Site Supervisor": {
-      "name": "Site Supervisor",
-      "service": "staffing-on-site-supervision",
-      "category": "Supervision",
-      "license_required": "None",
-      "active": 1
+    "Service Category:Business Support": {
+      "name": "Business Support",
+      "title": "Business Support",
+      "slug": "business-support",
+      "app": "pwl",
+      "icon": "Headset",
+      "description": ""
     },
     "Service:pwl-customer-service-call-center": {
       "name": "pwl-customer-service-call-center",
@@ -512,87 +467,9 @@
       "cta_url": "/contact?service=quality-control-reporting",
       "cta_secondary_label": "See open jobs",
       "cta_secondary_url": "/careers"
-    },
-    "Staffing Position:Customer Service Agent": {
-      "name": "Customer Service Agent",
-      "service": "pwl-customer-service-call-center",
-      "category": "Customer Service",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Call Center Agent": {
-      "name": "Call Center Agent",
-      "service": "pwl-customer-service-call-center",
-      "category": "Customer Service",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Dispatcher": {
-      "name": "Dispatcher",
-      "service": "pwl-dispatch-logistics-coordination",
-      "category": "Dispatch & Logistics",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Logistics Coordinator": {
-      "name": "Logistics Coordinator",
-      "service": "pwl-dispatch-logistics-coordination",
-      "category": "Dispatch & Logistics",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Administrative Assistant": {
-      "name": "Administrative Assistant",
-      "service": "pwl-administrative-support",
-      "category": "Administrative",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Workforce Coordinator": {
-      "name": "Workforce Coordinator",
-      "service": "pwl-workforce-management-recruitment",
-      "category": "Supervision",
-      "license_required": "None",
-      "active": 1
-    },
-    "Staffing Position:Quality Control Inspector": {
-      "name": "Quality Control Inspector",
-      "service": "pwl-quality-control-reporting",
-      "category": "Quality Control",
-      "license_required": "None",
-      "active": 1
     }
   },
   "postInstaller": {
-    "App:pwl": "link",
-    "Service Category:Fleet Operations": "link",
-    "Service Category:Vehicle Care": "link",
-    "Service Category:Facility Services": "link",
-    "Service Category:Site Management": "link",
-    "Service:staffing-shuttle-drivers": "link",
-    "Service:staffing-lot-porters-vehicle-movers": "link",
-    "Service:staffing-car-wash-detailing": "link",
-    "Service:staffing-fleet-prep-support": "link",
-    "Service:staffing-cleaning-crews": "link",
-    "Service:staffing-on-site-supervision": "link",
-    "Staffing Position:Shuttle Driver": "link",
-    "Staffing Position:Lot Porter": "link",
-    "Staffing Position:Car Wash Detailer": "link",
-    "Staffing Position:Fleet Prep Technician": "link",
-    "Staffing Position:Cleaning Crew Member": "link",
-    "Staffing Position:Site Supervisor": "link",
-    "Service Category:Business Support": "link",
-    "Service:pwl-customer-service-call-center": "link",
-    "Service:pwl-dispatch-logistics-coordination": "link",
-    "Service:pwl-administrative-support": "link",
-    "Service:pwl-workforce-management-recruitment": "link",
-    "Service:pwl-quality-control-reporting": "link",
-    "Staffing Position:Customer Service Agent": "link",
-    "Staffing Position:Call Center Agent": "link",
-    "Staffing Position:Dispatcher": "link",
-    "Staffing Position:Logistics Coordinator": "link",
-    "Staffing Position:Administrative Assistant": "link",
-    "Staffing Position:Workforce Coordinator": "link",
-    "Staffing Position:Quality Control Inspector": "link"
+    "App:pwl": "link"
   }
 }
