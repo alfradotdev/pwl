@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":11544,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -48,7 +48,8 @@
           "link": "Home",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 34
         },
         {
           "parent_document": "App",
@@ -57,7 +58,8 @@
           "link": "Services",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 35
         },
         {
           "parent_document": "App",
@@ -66,7 +68,8 @@
           "link": "Industries",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 36
         },
         {
           "parent_document": "App",
@@ -75,7 +78,8 @@
           "link": "Careers",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 37
         },
         {
           "parent_document": "App",
@@ -84,7 +88,8 @@
           "link": "About",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 38
         },
         {
           "parent_document": "App",
@@ -93,7 +98,8 @@
           "link": "Live Demo",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 39
         },
         {
           "parent_document": "App",
@@ -102,7 +108,8 @@
           "link": "Contact",
           "parent_menu": null,
           "router_only": 0,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 40
         },
         {
           "parent_document": "App",
@@ -111,7 +118,8 @@
           "link": "sign",
           "parent_menu": null,
           "router_only": 1,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 41
         },
         {
           "parent_document": "App",
@@ -120,7 +128,8 @@
           "link": "clock",
           "parent_menu": null,
           "router_only": 1,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 42
         },
         {
           "parent_document": "App",
@@ -129,7 +138,8 @@
           "link": "station",
           "parent_menu": null,
           "router_only": 1,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "__position__": 43
         }
       ],
       "menu_actions": [
@@ -137,7 +147,8 @@
           "parent_document": "App",
           "name": "Ns4LlItj9O5g0bJ",
           "icon": "Phone",
-          "action": "/contact"
+          "action": "/contact",
+          "__position__": 16
         }
       ],
       "theme": "{\"theme\":\"green\",\"darkMode\":\"auto\",\"darkIntensity\":0.15,\"darkCustomColor\":\"#0a0a0a\",\"includeTitles\":true}"
