@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.6.12"
+    "version": "1.6.14"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.6.12",
+      "version": "1.6.14",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":15181,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -31,9 +31,9 @@
       "gap": "",
       "col_padding": "",
       "has_footer": 1,
-      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px 10px; color: inherit; gap: 30px;\">\n  <div style=\"flex: 1.4; min-width: 260px;\">\n    ### Primstone Workforce Logistics LLC\n\n    <span style=\"color: hsl(var(--primary)); font-size: 0.8em; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;\">Woman-Owned | Minority-Owned | Georgia-Based</span>\n\n    **Workforce Ready. Operations Accountable. Performance Focused.**\n\n    Workforce and operational support designed around your business needs.\n  </div>\n\n  <div style=\"flex: 1; min-width: 200px;\">\n    ### Contact\n\n    100 Hartsfield Centre Parkway, Suite 500  \n    Atlanta, GA 30354\n\n    [mercedes@pwl.services](mailto:mercedes@pwl.services)\n  </div>\n\n  <div style=\"flex: 1; min-width: 180px;\">\n    ### Links\n\n    * [Home](/)\n    * [Services](/services)\n    * [Industries](/industries)\n    * [About Us](/about-us)\n    * [Workforce Readiness](/workforce-readiness)\n    * [Careers](/careers)\n    * [Contact](/contact)\n  </div>\n\n  <div style=\"flex: 1; min-width: 160px;\">\n    ### Policies\n\n    * [Privacy Notice](/legal/privacy-notice)\n    * [Terms of Use](/legal/terms-of-use)\n  </div>\n</div>",
+      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px 10px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1.4; min-width: 260px;\">\r\n    ### Primstone Workforce Logistics LLC\r\n\r\n    <span style=\"color: hsl(var(--primary)); font-size: 0.8em; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;\">Woman-Owned | Minority-Owned | Georgia-Based</span>\r\n\r\n    **Workforce Ready. Operations Accountable. Performance Focused.**\r\n\r\n    Workforce and operational support designed around your business needs.\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 200px;\">\r\n    ### Contact\r\n\r\n    100 Hartsfield Centre Parkway, Suite 500\r\n    Atlanta, GA 30354\r\n\r\n    [mercedesgrullon@pwl.services](mailto\\:mercedesgrullon@pwl.services)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 180px;\">\r\n    ### Links\r\n\r\n    * [Home](/)\r\n    * [Services](/services)\r\n    * [Industries](/industries)\r\n    * [About Us](/about-us)\r\n    * [Workforce Readiness](/workforce-readiness)\r\n    * [Careers](/careers)\r\n    * [Contact](/contact)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 160px;\">\r\n    ### Policies\r\n\r\n    * [Privacy Notice](/legal/privacy-notice)\r\n    * [Terms of Use](/legal/terms-of-use)\r\n  </div>\r\n</div>",
       "has_copyright": 1,
-      "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\n  *Faith in Our Foundation. Excellence in Our Execution.*\n\n  © 2026 **Primstone Workforce Logistics LLC**. All rights reserved.\n\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\n</div>",
+      "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\r\n  *Faith in Our Foundation. Excellence in Our Execution.*\r\n\r\n  © 2026 **Primstone Workforce Logistics LLC**. All rights reserved.\r\n\r\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\r\n</div>",
       "fixed": 1,
       "logo_position": "left",
       "rounded": "sm",
@@ -43,9 +43,19 @@
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "Pfj10w2P5C4SaML",
+          "name": "v93AYdft9mJ3BSZ",
           "page": "Pwl Home",
           "link": "Home",
+          "parent_menu": null,
+          "router_only": 0,
+          "document_parent_name": null,
+          "__position__": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "a3499spw18uIbZT",
+          "page": "Pwl Services",
+          "link": "Services",
           "parent_menu": null,
           "router_only": 0,
           "document_parent_name": null,
@@ -53,9 +63,9 @@
         },
         {
           "parent_document": "App",
-          "name": "ufIC23H5m4F5yOi",
-          "page": "Pwl Services",
-          "link": "Services",
+          "name": "sHfuls9Ke1d2UV4",
+          "page": "Pwl Industries",
+          "link": "Industries",
           "parent_menu": null,
           "router_only": 0,
           "document_parent_name": null,
@@ -63,9 +73,9 @@
         },
         {
           "parent_document": "App",
-          "name": "iQfmnsW3xD22veU",
-          "page": "Pwl Industries",
-          "link": "Industries",
+          "name": "HV5qrGo1Sf9dUZA",
+          "page": "Pwl About",
+          "link": "About Us",
           "parent_menu": null,
           "router_only": 0,
           "document_parent_name": null,
@@ -73,9 +83,9 @@
         },
         {
           "parent_document": "App",
-          "name": "FON7GbnX2Jwi6vM",
-          "page": "Pwl About",
-          "link": "About Us",
+          "name": "W9i117QvBsDLTa4",
+          "page": "Pwl Workforce Readiness",
+          "link": "Workforce Readiness",
           "parent_menu": null,
           "router_only": 0,
           "document_parent_name": null,
@@ -83,9 +93,9 @@
         },
         {
           "parent_document": "App",
-          "name": "g9yUYfrIcf2WBRl",
-          "page": "Pwl Workforce Readiness",
-          "link": "Workforce Readiness",
+          "name": "eCkeU7F398xEYcb",
+          "page": "Pwl Careers",
+          "link": "Careers",
           "parent_menu": null,
           "router_only": 0,
           "document_parent_name": null,
@@ -93,9 +103,9 @@
         },
         {
           "parent_document": "App",
-          "name": "ut1UFKI5ecvOGbk",
-          "page": "Pwl Careers",
-          "link": "Careers",
+          "name": "JEOBVDP4XN5toJR",
+          "page": "Pwl Contact",
+          "link": "Contact",
           "parent_menu": null,
           "router_only": 0,
           "document_parent_name": null,
@@ -103,19 +113,19 @@
         },
         {
           "parent_document": "App",
-          "name": "x2kpyusV19SKjc7",
-          "page": "Pwl Contact",
-          "link": "Contact",
+          "name": "D8B7jl6t0Im3JW9",
+          "page": "Pwl About",
+          "link": "About",
           "parent_menu": null,
-          "router_only": 0,
+          "router_only": 1,
           "document_parent_name": null,
           "__position__": 7
         },
         {
           "parent_document": "App",
-          "name": "FON7GbnX2Jwi6vM",
-          "page": "Pwl About",
-          "link": "About",
+          "name": "QPZ1Vn9igRT9ux8",
+          "page": "Pwl Legal",
+          "link": "legal",
           "parent_menu": null,
           "router_only": 1,
           "document_parent_name": null,
@@ -123,9 +133,9 @@
         },
         {
           "parent_document": "App",
-          "name": "XdnQOThXxIGvPHr",
-          "page": "Pwl Legal",
-          "link": "legal",
+          "name": "KLNVJF0QabKn1s5",
+          "page": "Document Signing",
+          "link": "sign",
           "parent_menu": null,
           "router_only": 1,
           "document_parent_name": null,
@@ -133,9 +143,9 @@
         },
         {
           "parent_document": "App",
-          "name": "g41GBxo921eu0yk",
-          "page": "Document Signing",
-          "link": "sign",
+          "name": "R911Qpt65kjCIHb",
+          "page": "Staffing Clock",
+          "link": "clock",
           "parent_menu": null,
           "router_only": 1,
           "document_parent_name": null,
@@ -143,36 +153,26 @@
         },
         {
           "parent_document": "App",
-          "name": "gVevHayWDk5dfNu",
-          "page": "Staffing Clock",
-          "link": "clock",
-          "parent_menu": null,
-          "router_only": 1,
-          "document_parent_name": null,
-          "__position__": 11
-        },
-        {
-          "parent_document": "App",
-          "name": "Pw97B1D1PVX905I",
+          "name": "R3b4aZMw4R37GnF",
           "page": "Staffing Station Kiosk",
           "link": "station",
           "parent_menu": null,
           "router_only": 1,
           "document_parent_name": null,
-          "__position__": 12
+          "__position__": 11
         }
       ],
       "menu_actions": [
         {
           "parent_document": "App",
-          "name": "GKx2eft7353iXUg",
+          "name": "RSOHQXaNFKLBWVD",
           "icon": "MessageSquare",
           "action": "/contact",
-          "label": "Request a Consultation",
-          "__position__": 1
+          "__position__": 0,
+          "label": "Request a Consultation"
         }
       ],
-      "theme": "{\"theme\": \"custom\", \"darkMode\": \"auto\", \"darkIntensity\": 0.15, \"darkCustomColor\": \"#0a0a0a\", \"includeTitles\": true, \"brand\": {\"primary\": \"#164a36\", \"accent\": \"#a8bda7\", \"background\": \"#f4f5f1\", \"foreground\": \"#343b37\"}}"
+      "theme": "{\"theme\":\"custom\",\"darkMode\":\"auto\",\"darkIntensity\":0.15,\"darkCustomColor\":\"#0a0a0a\",\"includeTitles\":true,\"brand\":{\"primary\":\"#164a36\",\"accent\":\"#a8bda7\",\"background\":\"#f4f5f1\",\"foreground\":\"#343b37\"}}"
     },
     "Module:pwl": {
       "name": "pwl",
@@ -183,9 +183,6 @@
     },
     "Page Builder:Pwl About": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-about"
-    },
-    "Page Builder:Pwl Workforce Readiness": {
-      "__root__": "/apps/pwl/modules/pwl/pages/pwl-workforce-readiness"
     },
     "Entity:Menu Item": {
       "__app__": "loopar"
@@ -214,6 +211,9 @@
     "Page Builder:Pwl Services": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-services"
     },
+    "Page Builder:Pwl Workforce Readiness": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-workforce-readiness"
+    },
     "Page Builder:Document Signing": {
       "__app__": "loopar"
     },
@@ -239,6 +239,21 @@
       "is_system_role": 1,
       "disabled": 0,
       "description": "Reads everything in the Pwl app; creates and edits only its own records."
+    },
+    "Entity:Announcement": {
+      "__app__": "loopar"
+    },
+    "Announcement:pwl-ownership": {
+      "name": "pwl-ownership",
+      "headline": "WOMAN-OWNED | MINORITY-OWNED",
+      "message": "A Georgia-based workforce logistics partner committed to dependable service, responsive support, and operational excellence.",
+      "app": "pwl",
+      "published": 1,
+      "starts_on": null,
+      "ends_on": null,
+      "variant": "primary",
+      "priority": 0,
+      "dismissible": 0
     },
     "Entity:Legal Notice": {
       "__app__": "loopar"
@@ -535,12 +550,10 @@
       "name": "pwl-temporary-staffing",
       "title": "Temporary Staffing",
       "slug": "temporary-staffing",
-      "category": null,
       "app": "pwl",
       "published": 1,
       "featured": 0,
       "order": 1,
-      "tagline": null,
       "summary": "Workforce support for agreed temporary assignments, subject to availability, role requirements, and applicable requirements.",
       "description": "Primstone provides workforce support for temporary assignments agreed with each client. Roles, schedules, and responsibilities are defined before the engagement begins, and staffing is subject to availability, role requirements, and applicable requirements.\n\nEach engagement is defined by the agreed scope, staffing needs, operating environment, and applicable requirements. Every engagement includes a designated client point of contact during agreed operating hours, included in the agreed service rate. On-site supervision is optional and, if selected, is defined in the service agreement.",
       "icon": "Users",
@@ -555,12 +568,10 @@
       "name": "pwl-fleet-support-vehicle-preparation",
       "title": "Fleet Support and Vehicle Preparation",
       "slug": "fleet-support-vehicle-preparation",
-      "category": null,
       "app": "pwl",
       "published": 1,
       "featured": 0,
       "order": 2,
-      "tagline": null,
       "summary": "Support for eligible vehicle preparation, cleaning, staging, inspection coordination, and related fleet activities.",
       "description": "Workforce support for eligible fleet activities such as vehicle preparation, cleaning, staging, and inspection coordination. The activities included, and how they are performed, follow the client’s procedures and the agreed scope of work.\n\nEach engagement is defined by the agreed scope, staffing needs, operating environment, and applicable requirements. Every engagement includes a designated client point of contact during agreed operating hours, included in the agreed service rate. On-site supervision is optional and, if selected, is defined in the service agreement.",
       "icon": "Car",
@@ -575,12 +586,10 @@
       "name": "pwl-logistics-dispatch-coordination",
       "title": "Logistics and Dispatch Coordination",
       "slug": "logistics-dispatch-coordination",
-      "category": null,
       "app": "pwl",
       "published": 1,
       "featured": 0,
       "order": 3,
-      "tagline": null,
       "summary": "Support for scheduling, assignment coordination, dispatch-related activities, and operational communication.",
       "description": "Support for the coordination work that keeps assignments moving: scheduling, assignment coordination, dispatch-related activities, and operational communication, as defined with each client.\n\nEach engagement is defined by the agreed scope, staffing needs, operating environment, and applicable requirements. Every engagement includes a designated client point of contact during agreed operating hours, included in the agreed service rate. On-site supervision is optional and, if selected, is defined in the service agreement.",
       "icon": "Route",
@@ -595,12 +604,10 @@
       "name": "pwl-customer-service-administrative-support",
       "title": "Customer Service and Administrative Support",
       "slug": "customer-service-administrative-support",
-      "category": null,
       "app": "pwl",
       "published": 1,
       "featured": 0,
       "order": 4,
-      "tagline": null,
       "summary": "Workforce support for eligible customer-facing, administrative, documentation, and routine operational tasks.",
       "description": "Workforce support for eligible customer-facing, administrative, documentation, and routine operational tasks, aligned with the client’s procedures and service expectations.\n\nEach engagement is defined by the agreed scope, staffing needs, operating environment, and applicable requirements. Every engagement includes a designated client point of contact during agreed operating hours, included in the agreed service rate. On-site supervision is optional and, if selected, is defined in the service agreement.",
       "icon": "Headset",
@@ -615,12 +622,10 @@
       "name": "pwl-site-facility-operations-support",
       "title": "Site and Facility Operations Support",
       "slug": "site-facility-operations-support",
-      "category": null,
       "app": "pwl",
       "published": 1,
       "featured": 0,
       "order": 5,
-      "tagline": null,
       "summary": "Workforce assistance for agreed site activities and routine operational needs.",
       "description": "Workforce assistance for the site activities and routine operational needs agreed with the client, within the scope and responsibilities defined for the engagement.\n\nEach engagement is defined by the agreed scope, staffing needs, operating environment, and applicable requirements. Every engagement includes a designated client point of contact during agreed operating hours, included in the agreed service rate. On-site supervision is optional and, if selected, is defined in the service agreement.",
       "icon": "Building2",
@@ -635,12 +640,10 @@
       "name": "pwl-customized-workforce-solutions",
       "title": "Customized Workforce Solutions",
       "slug": "customized-workforce-solutions",
-      "category": null,
       "app": "pwl",
       "published": 1,
       "featured": 0,
       "order": 6,
-      "tagline": null,
       "summary": "Service arrangements developed around the client’s requirements, operating environment, and agreed scope of work.",
       "description": "When an operation needs a combination of roles or a different arrangement, Primstone works with the client to develop a service arrangement around its requirements, operating environment, and agreed scope of work.\n\nEach engagement is defined by the agreed scope, staffing needs, operating environment, and applicable requirements. Every engagement includes a designated client point of contact during agreed operating hours, included in the agreed service rate. On-site supervision is optional and, if selected, is defined in the service agreement.",
       "icon": "SlidersHorizontal",
@@ -650,23 +653,6 @@
       "cta_url": "/contact?service=customized-workforce-solutions",
       "cta_secondary_label": "All Services",
       "cta_secondary_url": "/services"
-    },
-    "Entity:Announcement": {
-      "__app__": "loopar"
-    },
-    "Announcement:pwl-ownership": {
-      "name": "pwl-ownership",
-      "headline": "WOMAN-OWNED | MINORITY-OWNED",
-      "message": "A Georgia-based workforce logistics partner committed to dependable service, responsive support, and operational excellence.",
-      "link_label": null,
-      "link_url": null,
-      "app": "pwl",
-      "published": 1,
-      "starts_on": null,
-      "ends_on": null,
-      "variant": "primary",
-      "priority": 0,
-      "dismissible": 0
     }
   },
   "postInstaller": {
