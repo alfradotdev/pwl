@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.6.8"
+    "version": "1.6.12"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.6.8",
+      "version": "1.6.12",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":15181,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -31,7 +31,7 @@
       "gap": "",
       "col_padding": "",
       "has_footer": 1,
-      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px 10px; color: inherit; gap: 30px;\">\n  <div style=\"flex: 1.4; min-width: 260px;\">\n    ### Primstone Workforce Logistics LLC\n\n    **Workforce Ready. Operations Accountable. Performance Focused.**\n\n    Workforce and operational support designed around your business needs.\n  </div>\n\n  <div style=\"flex: 1; min-width: 200px;\">\n    ### Contact\n\n    100 Hartsfield Centre Parkway, Suite 500  \n    Atlanta, GA 30354\n\n    [mercedes@pwl.services](mailto:mercedes@pwl.services)\n  </div>\n\n  <div style=\"flex: 1; min-width: 180px;\">\n    ### Links\n\n    * [Home](/)\n    * [Services](/services)\n    * [Industries](/industries)\n    * [About Us](/about-us)\n    * [Workforce Readiness](/workforce-readiness)\n    * [Careers](/careers)\n    * [Contact](/contact)\n  </div>\n\n  <div style=\"flex: 1; min-width: 160px;\">\n    ### Policies\n\n    * [Privacy Notice](/legal/privacy-notice)\n    * [Terms of Use](/legal/terms-of-use)\n  </div>\n</div>",
+      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px 10px; color: inherit; gap: 30px;\">\n  <div style=\"flex: 1.4; min-width: 260px;\">\n    ### Primstone Workforce Logistics LLC\n\n    <span style=\"color: hsl(var(--primary)); font-size: 0.8em; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;\">Woman-Owned | Minority-Owned | Georgia-Based</span>\n\n    **Workforce Ready. Operations Accountable. Performance Focused.**\n\n    Workforce and operational support designed around your business needs.\n  </div>\n\n  <div style=\"flex: 1; min-width: 200px;\">\n    ### Contact\n\n    100 Hartsfield Centre Parkway, Suite 500  \n    Atlanta, GA 30354\n\n    [mercedes@pwl.services](mailto:mercedes@pwl.services)\n  </div>\n\n  <div style=\"flex: 1; min-width: 180px;\">\n    ### Links\n\n    * [Home](/)\n    * [Services](/services)\n    * [Industries](/industries)\n    * [About Us](/about-us)\n    * [Workforce Readiness](/workforce-readiness)\n    * [Careers](/careers)\n    * [Contact](/contact)\n  </div>\n\n  <div style=\"flex: 1; min-width: 160px;\">\n    ### Policies\n\n    * [Privacy Notice](/legal/privacy-notice)\n    * [Terms of Use](/legal/terms-of-use)\n  </div>\n</div>",
       "has_copyright": 1,
       "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\n  *Faith in Our Foundation. Excellence in Our Execution.*\n\n  © 2026 **Primstone Workforce Logistics LLC**. All rights reserved.\n\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\n</div>",
       "fixed": 1,
@@ -650,6 +650,23 @@
       "cta_url": "/contact?service=customized-workforce-solutions",
       "cta_secondary_label": "All Services",
       "cta_secondary_url": "/services"
+    },
+    "Entity:Announcement": {
+      "__app__": "loopar"
+    },
+    "Announcement:pwl-ownership": {
+      "name": "pwl-ownership",
+      "headline": "WOMAN-OWNED | MINORITY-OWNED",
+      "message": "A Georgia-based workforce logistics partner committed to dependable service, responsive support, and operational excellence.",
+      "link_label": null,
+      "link_url": null,
+      "app": "pwl",
+      "published": 1,
+      "starts_on": null,
+      "ends_on": null,
+      "variant": "primary",
+      "priority": 0,
+      "dismissible": 0
     }
   },
   "postInstaller": {
