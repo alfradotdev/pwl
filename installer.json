@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.6.14"
+    "version": "1.6.16"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.6.14",
+      "version": "1.6.16",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":15181,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -247,6 +247,8 @@
       "name": "pwl-ownership",
       "headline": "WOMAN-OWNED | MINORITY-OWNED",
       "message": "A Georgia-based workforce logistics partner committed to dependable service, responsive support, and operational excellence.",
+      "link_label": "",
+      "link_url": "",
       "app": "pwl",
       "published": 1,
       "starts_on": null,
