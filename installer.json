@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.6.20"
+    "version": "1.7.7"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.6.20",
+      "version": "1.7.7",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":15181,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -31,7 +31,7 @@
       "gap": "",
       "col_padding": "",
       "has_footer": 1,
-      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px 10px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1.4; min-width: 260px;\">\r\n    ### Primstone Workforce Logistics LLC\r\n\r\n    <span style=\"color: hsl(var(--primary)); font-size: 0.8em; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;\">Woman-Owned | Minority-Owned | Georgia-Based</span>\r\n\r\n    **Workforce Solutions. Operational Excellence.**\r\n\r\n    Professional coordination. Defined accountability. Solutions aligned with your business.\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 200px;\">\r\n    ### Contact\r\n\r\n    100 Hartsfield Centre Parkway, Suite 500\r\n    Atlanta, GA 30354\r\n\r\n    [mgrullon@pwl.services](mailto\\:mgrullon@pwl.services)\r\n\r\n    Mercedes Grullón: [(978) 601-8880](tel\\:+19786018880)  \r\n    Haile Hernandez: [(774) 339-1498](tel\\:+17743391498)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 180px;\">\r\n    ### Links\r\n\r\n    * [Home](/)\r\n    * [Solutions](/solutions)\r\n    * [Industries](/industries)\r\n    * [About Us](/about-us)\r\n    * [Workforce Readiness](/workforce-readiness)\r\n    * [Careers](/careers)\r\n    * [Contact](/contact)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 160px;\">\r\n    ### Policies\r\n\r\n    * [Privacy Notice](/legal/privacy-notice)\r\n    * [Terms of Use](/legal/terms-of-use)\r\n  </div>\r\n</div>",
+      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px 10px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1.4; min-width: 260px;\">\r\n    ### Primstone Workforce Logistics LLC\r\n\r\n    <span style=\"color: hsl(var(--primary)); font-size: 0.8em; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;\">Woman-Owned | Minority-Owned | Georgia-Based</span>\r\n\r\n    **Workforce Solutions. Operational Excellence.**\r\n\r\n    Flexible staffing and managed operational teams for businesses across industries.\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 200px;\">\r\n    ### Contact\r\n\r\n    100 Hartsfield Centre Parkway, Suite 500\r\n    Atlanta, GA 30354\r\n\r\n    [mgrullon@pwl.services](mailto\\:mgrullon@pwl.services)\r\n\r\n    Mercedes Grullón: [(978) 601-8880](tel\\:+19786018880)  \r\n    Haile Hernandez: [(774) 339-1498](tel\\:+17743391498)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 180px;\">\r\n    ### Links\r\n\r\n    * [Home](/)\r\n    * [Solutions](/solutions)\r\n    * [Industries](/industries)\r\n    * [About Us](/about-us)\r\n    * [Workforce Readiness](/workforce-readiness)\r\n    * [Careers](/careers)\r\n    * [Contact](/contact)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 160px;\">\r\n    ### Policies\r\n\r\n    * [Privacy Notice](/legal/privacy-notice)\r\n    * [Terms of Use](/legal/terms-of-use)\r\n  </div>\r\n</div>",
       "has_copyright": 1,
       "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\r\n  *Faith in Our Foundation. Excellence in Our Execution.*\r\n\r\n  © 2026 **Primstone Workforce Logistics LLC**. All rights reserved.\r\n\r\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\r\n</div>",
       "fixed": 1,
@@ -256,7 +256,7 @@
     "Announcement:pwl-ownership": {
       "name": "pwl-ownership",
       "headline": "WOMAN-OWNED | MINORITY-OWNED | GEORGIA-BASED",
-      "message": "An Integrated Partner for Workforce and Operational Solutions.",
+      "message": "Flexible Staffing. Managed Teams. Operational Accountability.",
       "link_label": "",
       "link_url": "",
       "app": "pwl",
@@ -277,9 +277,9 @@
       "app": "pwl",
       "published": 1,
       "effective_date": "2026-10-27",
-      "last_updated": "2026-10-27",
+      "last_updated": "2026-11-13",
       "summary": "",
-      "description": "This Privacy Notice explains how Primstone Workforce Logistics LLC (\"Primstone\", \"we\", \"us\") collects and uses personal information through this website.\r\n\r\n## Information we collect\r\n\r\n**Information you give us.** When you submit a consultation request, we collect your name, business name, business email, phone number (optional), industry, the service you are interested in, your estimated need, desired start date, preferred contact method and the description you provide.\r\n\r\nWhen you submit an expression of interest through the Careers page, we collect your name, email, phone number (optional), city and state, areas of interest, relevant experience, availability and, if you choose to attach it, your résumé.\r\n\r\n**Information collected automatically.** Our website uses cookies that are necessary for it to work, such as keeping a session secure. Our servers also record basic technical information (IP address, browser type and the pages requested) to operate and protect the website.\r\n\r\n## How we use your information\r\n\r\n* To review and answer your consultation request.\r\n* To review your expression of interest and contact you about suitable opportunities.\r\n* To operate, maintain and protect our website.\r\n* To comply with legal obligations.\r\n\r\n## How we share your information\r\n\r\nWe do not sell your personal information. We share it only with service providers that help us operate our website and business (for example, hosting and email providers), under obligations to protect it, or when required by law.\r\n\r\n## How long we keep your information\r\n\r\nWe keep personal information only as long as needed for the purposes described above, or as required by law.\r\n\r\n## Security\r\n\r\nWe use reasonable administrative and technical measures to protect personal information. No method of transmission or storage is completely secure.\r\n\r\n## Your choices\r\n\r\nYou may ask us to access, correct or delete the personal information you submitted through this website by writing to the email address below.\r\n\r\n## Children\r\n\r\nThis website is not directed to children under 16, and we do not knowingly collect their personal information.\r\n\r\n## Changes to this notice\r\n\r\nWe may update this notice. The date at the top shows when it was last updated.\r\n\r\n## Contact us\r\n\r\nPrimstone Workforce Logistics LLC\r\n100 Hartsfield Centre Parkway, Suite 500\r\nAtlanta, GA 30354\r\n[mgrullon@pwl.services](mailto\\:mgrullon@pwl.services)"
+      "description": "This Privacy Notice explains how Primstone Workforce Logistics LLC (\"Primstone\", \"we\", \"us\") collects and uses personal information through this website.\r\n\r\n## Information we collect\r\n\r\n**Information you give us.** When you submit a consultation request, we collect your name, company name, business email, phone number (optional), industry, business location, the service model and services you are interested in, and the description you provide.\r\n\r\nWhen you submit an expression of interest through the Careers page, we collect your name, email, phone number, city and state, areas of interest, relevant experience, availability and, if you choose to attach it, your résumé.\r\n\r\n**Information collected automatically.** Our website uses cookies that are necessary for it to work, such as keeping a session secure. Our servers also record basic technical information (IP address, browser type and the pages requested) to operate and protect the website.\r\n\r\n## How we use your information\r\n\r\n* To review and answer your consultation request.\r\n* To review your expression of interest and contact you about suitable opportunities.\r\n* To operate, maintain and protect our website.\r\n* To comply with legal obligations.\r\n\r\n## How we share your information\r\n\r\nWe do not sell your personal information. We share it only with service providers that help us operate our website and business (for example, hosting and email providers), under obligations to protect it, or when required by law.\r\n\r\n## How long we keep your information\r\n\r\nWe keep personal information only as long as needed for the purposes described above, or as required by law.\r\n\r\n## Security\r\n\r\nWe use reasonable administrative and technical measures to protect personal information. No method of transmission or storage is completely secure.\r\n\r\n## Your choices\r\n\r\nYou may ask us to access, correct or delete the personal information you submitted through this website by writing to the email address below.\r\n\r\n## Children\r\n\r\nThis website is not directed to children under 16, and we do not knowingly collect their personal information.\r\n\r\n## Changes to this notice\r\n\r\nWe may update this notice. The date at the top shows when it was last updated.\r\n\r\n## Contact us\r\n\r\nPrimstone Workforce Logistics LLC\r\n100 Hartsfield Centre Parkway, Suite 500\r\nAtlanta, GA 30354\r\n[mgrullon@pwl.services](mailto\\:mgrullon@pwl.services)"
     },
     "Legal Notice:pwl-terms-of-use": {
       "name": "pwl-terms-of-use",
@@ -566,15 +566,17 @@
       "published": 1,
       "featured": 1,
       "order": 1,
-      "summary": "Workforce arrangements for temporary assignments, based on role requirements, scheduling needs, personnel availability, and agreed service expectations.",
-      "description": "Each engagement begins with an understanding of the work to be performed and the service requirements established by the client. Assignment scope, roles, scheduling, client communication, and attendance reporting are defined in the service arrangement.",
+      "summary": "Scale your team for busy periods, temporary gaps, and everyday coverage.",
+      "description": "When demand changes, your team needs people ready to step in. Primstone provides flexible staffing for short-term coverage, peak periods, and ongoing workforce needs.\n\nAdd support where you need it while keeping daily direction and supervision with your own team.\n\n## How We Support Your Operations\n\n* Temporary and supplemental workforce coverage\n* Support for changing schedules and peak-demand periods\n* People for everyday operational and administrative support\n* Workforce coordination and clear communication\n\n## Staffing That Works With Your Team\n\nYou stay in control of day-to-day work. If you also need a partner to schedule, coordinate, and supervise a dedicated team, explore our Managed Workforce & Operational Solutions.",
       "icon": "Users",
       "cover_image": "[{\"name\": \"lot.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1593280405106-e438ebe93f5b?auto=format&fit=crop&w=1200&q=80\"}]",
       "pricing_model": "hidden",
-      "cta_label": "Request a Business Consultation",
+      "cta_label": "Discuss Your Staffing Needs",
       "cta_url": "/contact?service=temporary-staffing",
-      "cta_secondary_label": "All Services",
-      "cta_secondary_url": "/solutions"
+      "cta_secondary_label": "Explore All Solutions",
+      "cta_secondary_url": "/solutions",
+      "seo_title": "Workforce & Temporary Staffing Services | Primstone",
+      "seo_description": "Flexible staffing support for temporary coverage, changing schedules, and everyday business needs."
     },
     "Service:pwl-fleet-support-vehicle-preparation": {
       "name": "pwl-fleet-support-vehicle-preparation",
@@ -584,15 +586,17 @@
       "published": 1,
       "featured": 1,
       "order": 2,
-      "summary": "Workforce assistance for vehicle preparation, cleaning, staging, inspection coordination, and related fleet activities.",
-      "description": "Each engagement begins with an understanding of the work to be performed and the service requirements established by the client. Assignment scope, roles, scheduling, client communication, and attendance reporting are defined in the service arrangement.",
+      "summary": "Keep vehicles ready for the next assignment with support for preparation, cleaning, staging, and inspection coordination.",
+      "description": "From vehicle preparation to staging, Primstone helps fleets stay ready for daily demand. We provide staffing and managed teams for cleaning, readiness tasks, and inspection-related coordination.\n\nWhether you need extra hands during peak periods or a team to coordinate daily workflows, we help bring consistency to vehicle-related work.\n\n## How We Support Your Operations\n\n* Vehicle preparation and cleaning support\n* Vehicle staging and readiness coordination\n* Support for inspection-related workflows and documentation\n* Scheduling and coordination of fleet support teams\n\n## Fleet Support for Daily Demands\n\nChoose additional personnel for your existing fleet team or a Primstone-managed team with scheduling, supervision, and clear operational updates.",
       "icon": "Car",
       "cover_image": "[{\"name\": \"sedan.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1773063250524-38ac5eebd3c5?auto=format&fit=crop&w=1200&q=80\"}]",
       "pricing_model": "hidden",
-      "cta_label": "Request a Business Consultation",
+      "cta_label": "Discuss Your Fleet Support Needs",
       "cta_url": "/contact?service=fleet-support-vehicle-preparation",
-      "cta_secondary_label": "All Services",
-      "cta_secondary_url": "/solutions"
+      "cta_secondary_label": "Explore All Solutions",
+      "cta_secondary_url": "/solutions",
+      "seo_title": "Fleet & Vehicle Services | Primstone Workforce Logistics",
+      "seo_description": "Staffing and managed team support for vehicle preparation, cleaning, staging, and fleet workflow coordination."
     },
     "Service:pwl-logistics-dispatch-coordination": {
       "name": "pwl-logistics-dispatch-coordination",
@@ -602,15 +606,17 @@
       "published": 1,
       "featured": 1,
       "order": 3,
-      "summary": "Coordination of schedules, workforce assignments, dispatch-related activities, and operational communications.",
-      "description": "Each engagement begins with an understanding of the work to be performed and the service requirements established by the client. Assignment scope, roles, scheduling, client communication, and attendance reporting are defined in the service arrangement.",
+      "summary": "Coordinate schedules, assignments, and dispatch communications with flexible staffing and organized teams.",
+      "description": "Bring clarity to schedules, assignments, and dispatch communications. Primstone provides staffing and managed team support for logistics and dispatch-related operations, helping businesses respond to busy days and changing demand.\n\nFrom workforce assignments to operational handoffs, we help teams share timely updates and manage daily priorities.\n\n## How We Support Your Operations\n\n* Scheduling and workforce assignment support\n* Dispatch-related administrative coordination\n* Daily communication and operational handoffs\n* Support for routine logistics workflows and reporting\n\n## Flexible Teams. Clear Handoffs.\n\nAdd people to your existing logistics operation or let Primstone coordinate and supervise a dedicated support team.",
       "icon": "Route",
       "cover_image": "[{\"name\": \"warehouse2.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1200&q=80\"}]",
       "pricing_model": "hidden",
-      "cta_label": "Request a Business Consultation",
+      "cta_label": "Discuss Your Logistics Needs",
       "cta_url": "/contact?service=logistics-dispatch-coordination",
-      "cta_secondary_label": "All Services",
-      "cta_secondary_url": "/solutions"
+      "cta_secondary_label": "Explore All Solutions",
+      "cta_secondary_url": "/solutions",
+      "seo_title": "Logistics & Dispatch Coordination | Primstone",
+      "seo_description": "Workforce and operational support for schedules, assignments, dispatch-related tasks, and daily logistics coordination."
     },
     "Service:pwl-customer-service-administrative-support": {
       "name": "pwl-customer-service-administrative-support",
@@ -620,15 +626,17 @@
       "published": 1,
       "featured": 1,
       "order": 4,
-      "summary": "Workforce assistance for customer-facing responsibilities, documentation, administrative functions, and routine business processes.",
-      "description": "Each engagement begins with an understanding of the work to be performed and the service requirements established by the client. Assignment scope, roles, scheduling, client communication, and attendance reporting are defined in the service arrangement.",
+      "summary": "Give customers timely assistance and lighten administrative workloads with staffing and managed teams for service, documentation, and office tasks.",
+      "description": "Make every customer interaction count while easing the administrative load. Primstone offers flexible staffing and managed teams for customer service, office support, documentation, and everyday administrative needs.\n\nWhether you are handling a busy period or need ongoing support, we help your team stay responsive and organized.\n\n## How We Support Your Operations\n\n* Customer service and front-line communication support\n* Administrative and clerical task assistance\n* Documentation, data entry, and routine record coordination\n* Scheduling, follow-up, and daily workflow support\n\n## Customer Service That Fits Your Workflow\n\nAdd staff to your existing team or choose a Primstone-managed group for coordinated customer service and administrative support.",
       "icon": "Headset",
       "cover_image": "[{\"name\": \"team.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1516216628859-9bccecab13ca?auto=format&fit=crop&w=1200&q=80\"}]",
       "pricing_model": "hidden",
-      "cta_label": "Request a Business Consultation",
+      "cta_label": "Discuss Your Administrative Support Needs",
       "cta_url": "/contact?service=customer-service-administrative-support",
-      "cta_secondary_label": "All Services",
-      "cta_secondary_url": "/solutions"
+      "cta_secondary_label": "Explore All Solutions",
+      "cta_secondary_url": "/solutions",
+      "seo_title": "Administrative & Customer Service Staffing | Primstone",
+      "seo_description": "Flexible staffing and managed support for customer communication, administrative tasks, and everyday office workflows."
     },
     "Service:pwl-site-facility-operations-support": {
       "name": "pwl-site-facility-operations-support",
@@ -638,15 +646,17 @@
       "published": 1,
       "featured": 1,
       "order": 5,
-      "summary": "Personnel assistance for designated site activities and facility-related operational requirements.",
-      "description": "Each engagement begins with an understanding of the work to be performed and the service requirements established by the client. Assignment scope, roles, scheduling, client communication, and attendance reporting are defined in the service arrangement.",
+      "summary": "Maintain site readiness and daily task coverage with personnel and coordinated teams for facility operations.",
+      "description": "Give every site the people and coordination it needs. Primstone provides staffing and managed operational teams for everyday facility and site support.\n\nFrom routine task coverage to scheduling and activity updates, we help you manage priorities across busy work locations.\n\n## How We Support Your Operations\n\n* Personnel for general site and facility support activities\n* Site readiness and daily task coordination\n* Workforce scheduling and on-site team support\n* Communication, activity updates, and operational follow-up\n\n## Site Coverage With Clear Coordination\n\nChoose additional staff for your site team or a Primstone-managed team that brings supervision and daily coordination to routine operations.",
       "icon": "Building2",
       "cover_image": "[{\"name\": \"warehouse.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1586528116022-aeda1613c63d?auto=format&fit=crop&w=1200&q=80\"}]",
       "pricing_model": "hidden",
-      "cta_label": "Request a Business Consultation",
+      "cta_label": "Discuss Your Site & Facility Needs",
       "cta_url": "/contact?service=site-facility-operations-support",
-      "cta_secondary_label": "All Services",
-      "cta_secondary_url": "/solutions"
+      "cta_secondary_label": "Explore All Solutions",
+      "cta_secondary_url": "/solutions",
+      "seo_title": "Site & Facility Services | Primstone Workforce Logistics",
+      "seo_description": "Staffing and managed team support for routine site responsibilities, facility activities, and operational coordination."
     },
     "Service:pwl-customized-workforce-solutions": {
       "name": "pwl-customized-workforce-solutions",
@@ -656,15 +666,17 @@
       "published": 1,
       "featured": 1,
       "order": 6,
-      "summary": "Service arrangements developed around specific business needs, operating environments, responsibilities, and agreed scopes of work.",
-      "description": "Each engagement begins with an understanding of the work to be performed and the service requirements established by the client. Assignment scope, roles, scheduling, client communication, and attendance reporting are defined in the service arrangement.",
+      "summary": "Get staffing or managed-team support built around the way your business works.",
+      "description": "Your business has its own challenges. Your workforce solution should fit them. Primstone works with you to understand your priorities and identify the right mix of staffing and managed-team support.\n\nWhether you need extra personnel, a coordinated team, or a combination, we help shape a practical approach around how your business operates.\n\n## How We Support Your Operations\n\n* Workforce needs assessment and service planning\n* Flexible staffing for daily business needs\n* Dedicated team coordination and supervision options\n* Communication and performance follow-up\n\n## An Approach Built Around You\n\nTell us what you are trying to accomplish. We will help you explore the right starting point—staffing directed by your team, a Primstone-managed team, or a combination.",
       "icon": "SlidersHorizontal",
       "cover_image": "[{\"name\": \"vest.jpg\", \"type\": \"image\", \"src\": \"https://images.unsplash.com/photo-1622612023350-b15f063eabe6?auto=format&fit=crop&w=1200&q=80\"}]",
       "pricing_model": "hidden",
-      "cta_label": "Request a Business Consultation",
+      "cta_label": "Discuss a Customized Solution",
       "cta_url": "/contact?service=customized-workforce-solutions",
-      "cta_secondary_label": "All Services",
-      "cta_secondary_url": "/solutions"
+      "cta_secondary_label": "Explore All Solutions",
+      "cta_secondary_url": "/solutions",
+      "seo_title": "Customized Operational Services | Primstone",
+      "seo_description": "Explore flexible staffing and managed team approaches built around your business priorities and operational needs."
     }
   },
   "postInstaller": {
