@@ -48,9 +48,17 @@ const INDUSTRIES = [
 ];
 
 const LEADERS = [
-  { name: 'Mercedes Grullón', title: 'Co-Founder & Chief Executive Officer', phone: '(978) 601-8880' },
-  { name: 'Haile Hernandez', title: 'Co-Founder & President', phone: '(774) 339-1498' },
+  { name: 'Mercedes Grullón', short: 'Mercedes', title: 'Co-Founder & Chief Executive Officer', phone: '(978) 601-8880' },
+  { name: 'Haile Hernandez', short: 'Haile', title: 'Co-Founder & President', phone: '(774) 339-1498' },
 ];
+
+// Approved contact details, used where the Company record leaves a field empty.
+const CONTACT = {
+  legal_name: 'Primstone Workforce Logistics LLC',
+  address: '100 Hartsfield Centre Parkway, Suite 500',
+  city: 'Atlanta', state: 'GA', postal_code: '30354',
+  website: 'pwl.services', email: 'mgrullon@pwl.services',
+};
 
 /*
  * `.pwl-cap-*` sizes the paper; on print the site chrome is already hidden
@@ -94,7 +102,8 @@ function Block({ title, children, style }) {
   );
 }
 
-function Contact({ company }) {
+function Contact({ company: record }) {
+  const company = Object.fromEntries(Object.entries(CONTACT).map(([k, v]) => [k, record?.[k] || v]));
   const cityLine = [[company.city, company.state].filter(Boolean).join(', '), company.postal_code].filter(Boolean).join(' ');
   const website = String(company.website || '').replace(/^https?:\/\//i, '').replace(/\/$/, '');
   const lines = [
@@ -102,12 +111,12 @@ function Contact({ company }) {
     cityLine,
     website,
     company.email,
-    company.phone,
+    ...LEADERS.map((l) => `${l.short}: ${l.phone}`),
   ].filter(Boolean);
 
   return (
     <div style={{ display: 'grid', gap: '1.5pt' }}>
-      <p style={{ fontWeight: 700 }}>{company.legal_name || company.company_name || 'Primstone Workforce Logistics LLC'}</p>
+      <p style={{ fontWeight: 700 }}>{company.legal_name}</p>
       {lines.map((line) => <p key={line}>{line}</p>)}
       <p style={{ color: MUTED, marginTop: '3pt' }}>Business inquiries: visit the Contact page on our website.</p>
     </div>
@@ -204,7 +213,6 @@ function Statement() {
                     <div key={leader.name}>
                       <p style={{ fontWeight: 700 }}>{leader.name}</p>
                       <p style={{ color: MUTED }}>{leader.title}</p>
-                      <p>{leader.phone}</p>
                     </div>
                   ))}
                 </div>
