@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "pwl",
-    "version": "1.7.7"
+    "version": "1.8.0"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -16,7 +16,7 @@
     "App:pwl": {
       "name": "pwl",
       "description": "Primstone Workforce Logistics — website",
-      "version": "1.7.7",
+      "version": "1.8.0",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Globe",
       "logo": "[{\"name\":\"pwl-logo.svg\",\"size\":15181,\"type\":\"image\",\"src\":\"/assets/public/pwl-logo.svg\"}]",
@@ -170,6 +170,16 @@
           "router_only": 1,
           "document_parent_name": null,
           "__position__": 12
+        },
+        {
+          "parent_document": "App",
+          "name": "cApStMt7Qw2LpR9",
+          "page": "Pwl Capability Statement",
+          "link": "Capability Statement",
+          "parent_menu": null,
+          "router_only": 1,
+          "document_parent_name": null,
+          "__position__": 13
         }
       ],
       "menu_actions": [
@@ -202,6 +212,9 @@
     },
     "Page Builder:Pwl Careers": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-careers"
+    },
+    "Page Builder:Pwl Capability Statement": {
+      "__root__": "/apps/pwl/modules/pwl/pages/pwl-capability-statement"
     },
     "Page Builder:Pwl Contact": {
       "__root__": "/apps/pwl/modules/pwl/pages/pwl-contact"

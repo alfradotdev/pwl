@@ -1,0 +1,9 @@
+{
+  "name": "Pwl Capability Statement",
+  "module": "pwl",
+  "enable_history": "0",
+  "enable_comments": "0",
+  "doc_structure": "[{\"node\":\"pwlcap_001\",\"element\":\"section\",\"data\":{\"label\":\"Statement\",\"class\":\"py-0\"},\"elements\":[{\"node\":\"pwlcap_002\",\"element\":\"slot\",\"data\":{\"label\":\"Statement\",\"name\":\"statement\"}}]}]",
+  "__ENTITY__": "Page Builder",
+  "seo": "{\"title\":\"Corporate Capability Statement | Primstone Workforce Logistics\",\"description\":\"One-page overview of Primstone Workforce Logistics: service models, core capabilities, industries supported, leadership, and contact details.\"}"
+}
